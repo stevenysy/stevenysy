@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile!
+- 🌃 My name is Steven and I'm originally from the amazing city of Shanghai, China
+- 📍 I'm currently a third-year Computer Science student at Vanderbilt University!
+
+<div>
+    <a href="https://github.com/stevenysy">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=stevenysy&show_icons=true&theme=transparent&layout=compact&card_width=400" />
+    </a>
+</div>
+
+<div>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAKCAQAAADf2/zBAAAADUlEQVR42mNkYGDEjQAAwwALF34EvQAAAABJRU5ErkJggg==">
+</div>
+
+<div>
+    <a href="https://github.com/stevenysy">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=stevenysy&layout=compact&hide=vue,php&card_width=400" />
+    </a>
+</div>
 
 <!--
 **stevenysy/stevenysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
