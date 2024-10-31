@@ -18,6 +18,12 @@
     </a>
 </div>
 
+## My Projects
+
+### Demo of SwapSpot: an online second-hand trading platform
+
+[![SwapSpot Demo](https://img.youtube.com/vi/lHOLYlkFXeU/0.jpg)](https://youtu.be/lHOLYlkFXeU)
+
 <!--
 **stevenysy/stevenysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
