@@ -20,6 +20,10 @@
 
 ## My Projects
 
+### Demo of PDFGenie: an AI-powered PDF helper
+
+[![SwapSpot Demo](https://img.youtube.com/vi/AdXJ6LpH8b4/0.jpg)](https://youtu.be/AdXJ6LpH8b4)
+
 ### Demo of SwapSpot: an online second-hand trading platform
 
 [![SwapSpot Demo](https://img.youtube.com/vi/lHOLYlkFXeU/0.jpg)](https://youtu.be/lHOLYlkFXeU)
