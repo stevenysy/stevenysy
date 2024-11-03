@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my profile!
+## Welcome to my profile!
 - 🌃 My name is Steven and I'm originally from the amazing city of Shanghai, China
 - 📍 I'm currently a third-year Computer Science student at Vanderbilt University!
 
